@@ -148,7 +148,7 @@ aside {
     order: 1;
     padding: 0 0 20px 2.5%;
 }
-#right {
+.right {
     order: 2; 
 }
 aside h2 {
