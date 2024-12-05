@@ -149,7 +149,8 @@ aside {
     padding: 0 0 20px 2.5%;
 }
 aside right {
-    order: 3; 
+    order: 2; 
+    
 }
 aside h2 {
     color: #800000;
